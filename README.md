@@ -1,7 +1,7 @@
 <img  style="width:80px" src="https://github.com/jparkley/jparkley/blob/master/logo-taekwondo-01-s.jpg">  **Thank you for visiting!**  I'm Janelle ParkLee.
 - 🔭 I’m currently working on a mini shopping site with Amplify.
 - 🌱 I’m currently learning AWS & Typescript.
-- 💬 Ask me about Korean, Korean history and Korean Drama.
+- 💬 Ask me about Korean, Korean history and Korean drama.
 - :musical_note:
 
 
