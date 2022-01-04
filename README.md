@@ -1,5 +1,5 @@
 <img  style="width:80px" src="https://github.com/jparkley/jparkley/blob/master/logo-taekwondo-01-s.jpg">  **Thank you for visiting!**  I'm Janelle ParkLee. :musical_note:
-- 🔭 I’m currently working on <a href="https://github.com/jparkley/shops-react-amplify-serverless">a blog in Typescript, GraphQL, Apollo, NestjsK/a> and <a href="https://github.com/jparkley/shops-react-amplify-serverless">a mini shopping site with Amplify.</a>
+- 🔭 I’m currently working on <a href="https://github.com/jparkley/blog-typescript-graphql-nest">a blog in Typescript, GraphQL, Apollo, NestjsK</a> and <a href="https://github.com/jparkley/shops-react-amplify-serverless">a mini shopping site with Amplify.</a>
 - 🌱 I’m currently learning AWS & Typescript.
 - 💬 Ask me about software development business in Korea.
 
